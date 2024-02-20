@@ -16,7 +16,7 @@
 
   **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Javascript` `Svelte Kit` 
  
-  **Version Control:** `Git`
+  **Version Control:** `Git` `Gitlab` `Github`
 
   **Data Storage:** `Snowflake` `Azure`
 
