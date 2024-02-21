@@ -9,6 +9,7 @@
   - RltyChk: A time series machine learning model to see where climate change is going to affect the liveability in the US --- frontend in progress 🔜
   - Relational Data Map from Videos: Building a pipeline to analyze and store video data --- pipeline in progress 👨🏻‍💻
   - FirstHire Job Matcher: Imagining hinge but for job/recruiter seeking --- coming soon 👨🏻‍💻
+  - AWS Cloud Practioner Certification --- Test Scheduled for mid March 2024 👨🏻‍💻
 
 ## 📦 Toolbox
 
