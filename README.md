@@ -21,6 +21,8 @@
 
   **Data Storage:** `Snowflake` `Azure`
 
+  **Testing:** `Postman`
+
 ## 📫 How to reach me:
 
   For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shayonkeating/). 
