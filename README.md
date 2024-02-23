@@ -11,7 +11,7 @@
   - FirstHire Job Matcher: Imagining hinge but for job/recruiter seeking --- coming soon 👨🏻‍💻
   - AWS Cloud Practioner Certification --- Test Scheduled for mid March 2024 👨🏻‍💻
 
-## 📦 Toolbox
+## 📦 Toolkits that I like to use
 
   **Languages:** `Python` `R` `SQL` `Bash`
 
@@ -20,6 +20,8 @@
   **Version Control:** `Git` `Gitlab` `Github`
 
   **Data Storage:** `Snowflake` `Azure`
+
+  **Technologies:** `NLP` `GPTs`
 
   **Testing:** `Postman`
 
