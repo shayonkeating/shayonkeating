@@ -19,7 +19,7 @@
  
   **Version Control:** `Git` `Gitlab` `Github`
 
-  **Data Storage:** `Snowflake` `Azure`
+  **Data Storage:** `Snowflake` `Azure` `AWS`
 
   **Technologies:** `NLP` `GPTs`
 
