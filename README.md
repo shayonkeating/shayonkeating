@@ -13,9 +13,9 @@
 
 ## 📦 Toolkits that I like to use
 
-  **Languages:** `Python` `R` `SQL` `Bash`
+  **Languages:** `Python` `R` `SQL` `Bash` `TypeScript` `Javascript`
 
-  **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Javascript` `Svelte Kit` 
+  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` 
  
   **Version Control:** `Git` `Gitlab` `Github`
 
