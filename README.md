@@ -8,7 +8,7 @@
 
   - [RltyChk](https://rltychk.info): A time series machine learning model to see where climate change is going to affect the liveability in the US --- Done!
   - FirstHire Job Matcher: Imagining hinge but for job/recruiter seeking --- coming soon 👨🏻‍💻
-  - AWS Cloud Practioner Certification --- Test Scheduled for end of March 2024 👨🏻‍💻
+  - AWS Cloud Practioner Certification --- Test Scheduled for end of April 2024 👨🏻‍💻
   - [Relational Data Map from Videos](https://github.com/shayonkeating/relationalknowledgegpt): Building a pipeline to analyze and store video data --- Done! Now for the frontend 👨🏻‍💻
 
 ## 📦 Toolkits that I like to use
