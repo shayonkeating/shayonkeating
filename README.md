@@ -8,7 +8,7 @@
 
   - [RltyChk](https://rltychk.info): A time series machine learning model to see where climate change is going to affect the liveability in the US --- Done!
   - Project Oasis: Utilizing AI and ML to prevent burnout, building the engine to power it! --- coming soon 👨🏻‍💻
-  - Electric Kettle: Its coffee time always, building out your neighborhood coffee joint with a monthl subscription for unlimited drip --- coming soon 👨🏻‍💻
+  - Electric Kettle: Its coffee time always, your neighborhood coffee joint with a weekly subscription for unlimited drip --- coming soon 👨🏻‍💻
 
 ## 📦 Toolkits that I like to use
 
