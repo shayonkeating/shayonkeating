@@ -15,14 +15,10 @@
   **Languages:** `Python` `R` `SQL` `Bash` `TypeScript` `Javascript`
 
   **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` 
- 
-  **Version Control:** `Git` `Gitlab` `Github`
 
   **Data Storage:** `Snowflake` `Azure` `AWS`
 
   **Technologies:** `NLP` `GPTs`
-
-  **Testing:** `Postman`
 
 ## 📫 How to reach me:
 
