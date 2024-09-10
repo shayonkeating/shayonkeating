@@ -14,7 +14,7 @@
 
   **Languages:** `Python` `R` `SQL` `Bash` `TypeScript` `Javascript`
 
-  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` 
+  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js`
 
   **Data Storage:** `Snowflake` `Azure` `AWS`
 
