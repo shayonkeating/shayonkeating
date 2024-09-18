@@ -1,6 +1,6 @@
 # Howdy! I'm Shayon 🤠
 
-  I'm a scientist, researcher, and engineer based in San Diego, California
+  I'm a engineer, scientist, and researcher based in San Diego, California
 
   - Check out my [website](https://shayonkeating.github.io/) to learn more about me and my projects I am working on
 
