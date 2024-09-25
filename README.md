@@ -12,7 +12,7 @@
 
 ## 📦 Toolkits that I like to use
 
-  **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript` `R` 
+  **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript`
 
   **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js`
 
