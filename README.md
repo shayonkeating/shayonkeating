@@ -20,6 +20,8 @@
 
   **Technologies:** `NLP` `GPTs`
 
+   **Languages that I hate:** `R`
+
 ## 📫 How to reach me:
 
   For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shayonkeating/). 
