@@ -2,7 +2,7 @@
 
   I'm a engineer, scientist, and researcher based in San Diego, California.
 
-  - Check out my [website](https://shayonkeating.github.io/) to learn more about me and my projects I am working on
+  - Check out my [website](https://shayonkeating.github.io/) to learn more about me and my projects I am working on!
 
 ## 🌱 I’m currently working on ...
 
