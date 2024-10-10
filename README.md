@@ -20,7 +20,7 @@
 
   **Technologies:** `NLP` `GPTs`
 
-   **Languages that I really dislike:** `R`
+   **Languages that I dislike:** `R`
 
 ## 📫 How to reach me:
 
