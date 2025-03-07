@@ -4,11 +4,17 @@
 
   - Check out my [website](https://shayonkeating.github.io/) to learn more about me and my projects I am working on!
 
-## 🌱 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
   - [Tetrascience](https://www.tetrascience.com/), my current day job
   - Electric Kettle: Its coffee time always, your neighborhood coffee joint with a weekly subscription for unlimited drip --- coming soon 👨🏻‍💻
   - West of Knowhere: Cause its somewhere and its a pretty simple idea --- coming soon 👨🏻‍💻
+
+## 🌱 I’m currently learning ...
+
+  - Quantitative trading
+  - AWS Cloud Certified Practioner
+  - System design and load balancing
 
 ## 📦 Toolkits that I like to use
 
