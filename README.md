@@ -10,6 +10,7 @@
   - Electric Kettle: Its coffee time always, your neighborhood coffee joint with a weekly subscription for unlimited drip --- coming soon 👨🏻‍💻
   - West of Knowhere: Cause its somewhere and its a pretty simple idea --- coming soon 👨🏻‍💻
   - The Fuzzy Allocator: I just wanna know WHEN -- quant trading getting better --- coming soon 👨🏻‍💻
+  - Soy options: Day trading spy options -- automated! -- mostly... --- coming soon 👨🏻‍💻
 
 ## 🌱 I’m currently learning ...
 
