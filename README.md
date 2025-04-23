@@ -15,7 +15,7 @@
 ## 🌱 I’m currently learning ...
 
   - Quantitative trading
-  - AWS Cloud Certified Practioner
+  - AWS Databases and AI
   - System design and load balancing
 
 ## 📦 Toolkits that I like to use
