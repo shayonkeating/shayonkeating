@@ -7,9 +7,8 @@
 ## 🔭 I’m currently working on ...
 
   - [Tetrascience](https://www.tetrascience.com/), my current day job
-  - Electric Kettle: Its coffee time always, your neighborhood coffee joint with a weekly subscription for unlimited drip --- coming soon 👨🏻‍💻
-  - The Fuzzy Allocator: I just wanna know WHEN -- quant trading getting better --- coming soon 👨🏻‍💻
-  - Soy options: Day trading spy options -- automated! -- mostly... --- coming soon 👨🏻‍💻
+  - The Fuzzy Allocator: I just wanna know WHEN -- quant trading getting better --- Done! 👨🏻‍💻
+  - Soy options: Day trading spy options -- automated! -- mostly... --- Done! 👨🏻‍💻
 
 ## 🌱 I’m currently learning ...
 
