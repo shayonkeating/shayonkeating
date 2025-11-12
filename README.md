@@ -7,8 +7,6 @@
 ## 🔭 I’m currently working on ...
 
   - [Tetrascience](https://www.tetrascience.com/), my current day job
-  - The Fuzzy Allocator: I just wanna know WHEN -- quant trading getting better --- Done! 👨🏻‍💻
-  - Soy options: Day trading spy options -- automated! -- mostly... --- Done! 👨🏻‍💻
 
 ## 🌱 I’m currently learning ...
 
