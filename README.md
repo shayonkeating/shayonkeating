@@ -24,6 +24,8 @@
 
   **Technologies:** `NLP` `GPTs`
 
+  **Favorite AI Tools (in order):** `Claude` `Gemini` `ChatGPT`
+
    **Languages that I dislike:** `R`
 
 ## 📫 How to reach me:
