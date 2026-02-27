@@ -18,11 +18,11 @@
 
   **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript`
 
-  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js`
+  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash`
 
   **Data Storage:** `AWS` `Snowflake` `Azure`
 
-  **Technologies:** `NLP` `GPTs`
+  **Technologies:** `NLP` `GPTs` `Databricks`
 
   **Favorite AI Tools (in order):** `Claude` `Gemini` `ChatGPT`
 
