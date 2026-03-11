@@ -11,22 +11,22 @@
 ## 🌱 I’m currently learning ...
 
   - Quantitative trading
-  - AI APIs
+  - Data applications
   - System design and load balancing
 
 ## 📦 Toolkits that I like to use
 
   **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript`
 
-  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash`
+  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash` `Streamlit`
 
   **Data Storage:** `AWS` `Snowflake` `Azure`
 
   **Technologies:** `NLP` `GPTs` `Databricks`
 
-  **Favorite AI Tools (in order):** `Claude` `Gemini` `ChatGPT`
+  **Favorite AI Tools (in order):** `Claude` `Gemini`
 
-   **Languages that I dislike:** `R`
+   **Languages and AI tools that I dislike:** `R` `ChatGPT`
 
 ## 📫 How to reach me:
 
