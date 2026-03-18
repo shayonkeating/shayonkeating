@@ -20,7 +20,7 @@
 
   **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash` `Streamlit`
 
-  **Data Storage:** `AWS` `Snowflake` `Azure`
+  **Data Storage:** `AWS` `Snowflake` `Azure` `GCP`
 
   **Technologies:** `NLP` `GPTs` `Databricks`
 
