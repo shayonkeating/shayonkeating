@@ -16,9 +16,9 @@
 
 ## 📦 Toolkits that I like to use
 
-  **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript`
+  **Languages:** `Python` `SQL` `Bash` `TypeScript` `Javascript` `Swift`
 
-  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash` `Streamlit`
+  **Frontend Development:** `React` `Next.js` `Tailwind` `Svelte Kit` `Node.js` `Dash` `Streamlit` `FastAPI`
 
   **Data Storage:** `AWS` `Snowflake` `Azure` `GCP`
 
