@@ -26,7 +26,7 @@
 
   **Favorite AI Tools (in order):** `Claude` `Gemini`
 
-   **Languages and AI tools that I dislike:** `R` `ChatGPT`
+   **Languages and AI tools that I hate:** `R` `ChatGPT`
 
 ## 📫 How to reach me:
 
