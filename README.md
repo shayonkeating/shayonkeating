@@ -6,7 +6,7 @@
 
 ## 🔭 I’m currently working on ...
 
-  - [Tetrascience](https://www.tetrascience.com/), my current day job
+  - [Tetrascience](https://www.tetrascience.com/), my day job
 
 ## 🌱 I’m currently learning ...
 
