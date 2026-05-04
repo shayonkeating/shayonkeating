@@ -13,6 +13,7 @@
   - Quantitative trading
   - Data applications
   - System design and load balancing
+  - A LOT of react and full stack devlopment 
 
 ## 📦 Toolkits that I like to use
 
