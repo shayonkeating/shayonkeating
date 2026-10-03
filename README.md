@@ -23,7 +23,7 @@
 
   **Data Storage:** `AWS` `Snowflake` `Azure` `GCP`
 
-  **Technologies:** `NLP` `GPTs` `Databricks`
+  **Technologies:** `NLP` `GPTs` `Databricks` `MCPs`
 
   **Favorite AI Tools (in order):** `Claude` `Gemini`
 
